@@ -29,3 +29,12 @@ The script checks an email against these conditions:
 | test@domain.com@   | ❌ Invalid '@' usage             |
 | test@domain. com   | ❌ Invalid email format          |
 
+Outputs:
+
+
+![image](https://github.com/user-attachments/assets/27524ce5-5731-44d2-a1fe-c86c020744f1)
+
+
+![image](https://github.com/user-attachments/assets/ee8ee2bb-37d0-4d1b-9802-8c0b3a074229)
+
+
